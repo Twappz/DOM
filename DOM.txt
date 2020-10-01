@@ -1,0 +1,22 @@
+PRACTICE in DOM 
+
+document.querySelectorAll("#list .item ");
+document.querySelectorAll("#list .item ")[1];
+document.querySelectorAll("#list .item ")[1].classList.add("huge");
+document.querySelectorAll("#list .item ")[1].classList.remove("huge");
+
+document.querySelectorAll("#list .item ")[1].style.color="blue";
+"blue
+document.querySelector("li");
+
+document.querySelector("li a");
+
+document.getElementById("title").innerHTML="Me";
+
+document.getElementsByClassName("button");
+
+document.getElementById("butt");
+
+document.querySelector("button").style.backgroundColor="blue";
+
+document.querySelector("button").style.fontSize="5rem";
